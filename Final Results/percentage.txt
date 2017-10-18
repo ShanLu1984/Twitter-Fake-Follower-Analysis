@@ -1,0 +1,119 @@
+Fewer than 5 followers:
+
+People's Daily China             : 55.16%
+
+Xinhua News                      : 27.57%
+
+Global Times                     : 8.05%
+
+USA Today                        : 10.38%
+
+Los Angeles Times                : 13.29%
+
+Agence France_Presses            : 14.77%
+
+Foreign Policy                   : 11.04%
+
+Financial Times                  : 15.64%
+  
+Arab News                        : 14.28%
+
+Bangkok Post News                : 34.31%
+
+Daily News Egypt                 : 19.74%
+
+Hurriyet Daily News              : 34.08%
+
+Valdimir Putin                   : 33.49%
+ 
+----------------------------------------
+
+Fewer than 5 tweets:
+
+People's Daily China             : 58.81%
+
+Xinhua News                      : 38.94%
+
+Global Times                     : 12.78%
+
+USA Today                        : 18.48%
+
+Los Angeles Times                : 22.56%
+
+Agence France_Presses            : 21.10%
+
+Foreign Policy                   : 20.15%
+
+Financial Times                  : 27.82%
+  
+Arab News                        : 20.65%
+
+Bangkok Post News                : 38.91%
+
+Daily News Egypt                 : 27.59%
+
+Hurriyet Daily News              : 47.38%
+
+Valdimir Putin                   : 33.52%
+ 
+
+------------------------------------
+
+No Favorite:
+
+People's Daily China             : 64.04%
+
+Xinhua News                      : 46.18%
+
+Global Times                     : 24.48%
+
+USA Today                        : 22.09%
+
+Los Angeles Times                : 26.95%
+
+Agence France_Presses            : 21.08%
+
+Foreign Policy                   : 24.68%
+
+Financial Times                  : 34.08%
+  
+Arab News                        : 20.42%
+
+Bangkok Post News                : 38.31%
+
+Daily News Egypt                 : 33.16%
+
+Hurriyet Daily News              : 42.01%
+
+Valdimir Putin                   : 33.03%
+
+------------------------------------
+
+Default profile image:
+
+People's Daily China             : 48.36%
+
+Xinhua News                      : 26.89%
+
+Global Times                     : 9.45%
+
+USA Today                        : 13.25%
+
+Los Angeles Times                : 15.03%
+
+Agence France_Presses            : 14.23%
+
+Foreign Policy                   : 15.27%
+
+Financial Times                  : 20.20%
+  
+Arab News                        : 14.87%
+
+Bangkok Post News                : 22.68%
+
+Daily News Egypt                 : 18.50%
+
+Hurriyet Daily News              : 30.22%
+
+Valdimir Putin                   : 18.99%
+ 
